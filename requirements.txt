@@ -1,0 +1,5 @@
+celery==5.3.6
+flower==2.0.1
+python-dotenv==1.0.1
+requests==2.31.0
+SQLAlchemy==2.0.29
